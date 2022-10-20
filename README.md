@@ -9,7 +9,7 @@
 ## Usage
  - For any server upload all files on logomaker folder to directory
  - Type http://yourserver/logomaker and make something great. 
- - A small video for it 
+ - A small video for usage https://youtu.be/pmuMU2B5zgo
 
 ## Requirements
  - PHP Version > 7+ - 8.1.1 Required
