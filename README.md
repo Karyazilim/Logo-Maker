@@ -5,6 +5,7 @@
  - Make sure to php **open_basedir** option is **none**.
  - Open with-price and without-price.psd files and edit them for yourself. 
  - Save this files as jpg and change with **images/** folder
+ - Demo https://logo.doyosi.com.tr
 
 ## Usage
  - For any server upload all files on logomaker folder to directory
