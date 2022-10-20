@@ -5,7 +5,7 @@ $f3->set('AUTOLOAD', 'class/');
 $f3->set("IMAGES", "images/");
 $f3->set("UPLOADS", "uploads/");
 
-$f3->set("SERVER_WINDOWS", true);
+$f3->set("SERVER_WINDOWS", false);
 $f3->set("FOLDER_WINDOWS", __DIR__."\\font");
 
 $f3->route('GET /', 'Home->show'); 
